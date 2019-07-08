@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Prelude",
+        "repositoryURL": "https://github.com/wayfair/Prelude",
+        "state": {
+          "branch": "master",
+          "revision": "77ae90ac9eef72b70178638eb7f39a9414aa44b1",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
