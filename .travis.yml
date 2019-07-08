@@ -1,0 +1,8 @@
+language: swift
+osx_image: xcode10.2
+xcode_project: Parsers.xcodeproj
+
+matrix:
+  include:
+    - xcode_scheme: Parsers-Package
+      xcode_destination: platform=OS X,arch=x86_64
